@@ -8,3 +8,7 @@ Able to store and retrieve the following:
 * images 
 * utf-8 string
 * attribues 
+
+
+
+Click [h5py.ipynb](h5py.ipynb) to check out the notebook.
